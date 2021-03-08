@@ -1,0 +1,13 @@
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\bin\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.exe
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\bin\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.deps.json
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\bin\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.runtimeconfig.json
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\bin\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\bin\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.dll
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\bin\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.pdb
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\obj\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\obj\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\obj\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.AssemblyInfo.cs
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\obj\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\obj\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.dll
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\obj\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.pdb
+C:\Users\Dev\source\repos\Menor-de-18-Nao-Entra\obj\Debug\netcoreapp3.1\Menor-de-18-Nao-Entra.genruntimeconfig.cache
